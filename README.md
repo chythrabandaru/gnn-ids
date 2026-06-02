@@ -1,4 +1,5 @@
 # GNN-based Intrusion Detection System
+[![CI](https://github.com/chythrabandaru/gnn-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/chythrabandaru/gnn-ids/actions/workflows/ci.yml)
 
 > **95% detection accuracy on NSL-KDD · 12% F1 improvement over all classical ML baselines · Highest-performing model in cohort of 120 — Alliance University Security Symposium 2025**
 
